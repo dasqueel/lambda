@@ -1,0 +1,10 @@
+protoypes
+
+1: allows to store methods in on block of memory, instead of every instace of memory? you dont want every instance
+of the object to have its own method stored in memory. only one function for prototypes
+
+
+constructors
+
+1: wrappers for callback functions
+2: the innner remembers the scope of the outer
